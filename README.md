@@ -8,7 +8,7 @@ As a <b>fullstack developer</b>, my passion lies in solving user problems and cr
 <div style="display: inline_block">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
