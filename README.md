@@ -1,21 +1,27 @@
-### Hello! My name is Wesley Silva 😊
-As a <b>fullstack developer</b>, my passion lies in solving user problems and creating applications that provide a seamless and enjoyable experience for all users. I strongly believe in the principles of <b>accessibility</b> and <b>UX</b>, as I am committed to ensuring that everyone has equal opportunities and access on the internet.
+### Hello! I'm Wesley Silva 😊
 
-### Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyxsilva/?locale=en_US)
+## 💻 About me
+- I am from Brazil 🇧🇷
+- I am currently working as a Fullstack Software Engineer 👷‍♂️
+- I have a bachelor degree in Computer Science 📚
+- I really like to think about UX/UI and accessibility :accessibility:
 
-### Core frameworks, libraries and tools
-<div style="display: inline_block">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node-black?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div>
+## Reach me ☎️
+- LinkedIn - [https://www.linkedin.com/in/wesleyxsilva/](https://www.linkedin.com/in/wesleyxsilva/)
+- Email - [wesleyxoliveiraxsilva@gmail.com](mailto:wesleyxoliveiraxsilva@gmail.com)
 
-### Most used languages
-<div style="display: inline_block">
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+## ⬆ What I'm up to
+- Working as a consultant Fullstack Engineer at [Grupo FCamara](https://fcamara.com/en/)
+- Developing a React.js/Node.js e-commerce website in a personal project 
+- Learning Svelte 5
+
+## 🧑‍💻 Main stack
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
