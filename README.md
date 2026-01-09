@@ -2,18 +2,13 @@
 
 ## 💻 About me
 - I am from Brazil 🇧🇷
-- I am currently working as a Fullstack Software Engineer 👷‍♂️
+- I am a Fullstack Software Engineer 👷‍♂️
 - I have a bachelor degree in Computer Science 📚
 - I really like to think about UX/UI and accessibility :accessibility:
 
 ## Reach me ☎️
 - LinkedIn - [https://www.linkedin.com/in/wesleyxsilva/](https://www.linkedin.com/in/wesleyxsilva/)
 - Email - [wesleyxoliveiraxsilva@gmail.com](mailto:wesleyxoliveiraxsilva@gmail.com)
-
-## ⬆ What I'm up to
-- Working as a consultant Fullstack Engineer at [Grupo FCamara](https://fcamara.com/en/)
-- Developing a React.js/Node.js e-commerce website in a personal project 
-- Learning Svelte 5
 
 ## 🧑‍💻 Main stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
